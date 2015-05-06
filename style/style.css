@@ -152,6 +152,11 @@ ul#menu li a:hover, ul#menu li.selected a, ul#menu li.selected a:hover
 	color: #FFF;
 }
 
+#panel h4 {
+	margin-top: 15px;
+	margin-left: 15px;
+}
+
 #panel p {
 	font-size: 14px;
 	background: #fff;
